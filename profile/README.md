@@ -12,8 +12,8 @@
 
 | Maintainer               | GitHub ID                                              | Affiliation               |
 |--------------------------|--------------------------------------------------------|---------------------------|
-| David Murphy             | [@DJeremiah](https://github.com/djeremiah)             | Upbound                   |
-| Ritesh Patel             | [@Patelrit](https://github.com/patelrit)               | Nirmata                   |
-| Nicholas Morey           | [@morey-tech](https://github.com/morey-tech)           | Akuity                    |
-| Boris Kurktchiev         | [@kurktchiev](https://github.com/kurktchiev)           | Nirmata                   |
+| David Murphy             | [@DJeremiah](https://github.com/djeremiah)             | [Upbound](https://www.upbound.io/)                   |
+| Ritesh Patel             | [@Patelrit](https://github.com/patelrit)               | [Nirmata](https://www.nirmata.com/)                   |
+| Nicholas Morey           | [@morey-tech](https://github.com/morey-tech)           | [Akuity](https://akuity.io/)                    |
+| Boris Kurktchiev         | [@kurktchiev](https://github.com/kurktchiev)           | [Nirmata](https://www.nirmata.com/)                   |
 
