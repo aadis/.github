@@ -6,7 +6,7 @@
 -  **Enhanced Collaboration:** Foster a collaborative environment where teams can work efficiently and effectively.
 -  **Reduced Complexity:** Eliminate the headaches of managing multiple disparate platforms.
   
-[backstack.dev](backstack.dev) Together, let's unlock the future of platform engineering! ❤️
+[backstack.dev](https://backstack.dev/) Together, let's unlock the future of platform engineering! ❤️
 
 ## Maintainers
 
